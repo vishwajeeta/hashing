@@ -1,2 +1,2 @@
 "# hashing" 
-Encryption data using sha256 algorithm
+## Encryption data using sha256 algorithm
