@@ -13,5 +13,6 @@
             "src":"/(.*)",
             "dest":"hashing/wsgi.py"
         }
-    ]
+    ],
+    "outputDirectory": "staticfiles_build"
 }
